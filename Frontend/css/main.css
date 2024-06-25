@@ -8,18 +8,18 @@
 h1 {
     font-size: 50px;
     line-height: 64px;
-    color: #f7f1f1;
+    color: #0e0e0e;
 }
 
 h2 {
     font-size: 46px;
     line-height: 54px;
-    color: #f4f0f0;
+    color: #161414;
 }
 
 h4 {
     font-size: 20px;
-    color: #eeebeb;
+    color: #0e0d0d;
 }
 
 h6 {
@@ -29,7 +29,7 @@ h6 {
 
 p {
     font-size: 16px;
-    color: #ec5b22;
+    color: #080807;
     margin: 15px 0 20px 0;
 }
 
@@ -171,7 +171,7 @@ body {
 #hero button {
     background-image: url("img/button.png");
     background-color: transparent;
-    color: #07a29b;
+    color: #a28607;
     border: 0;
     padding: 14px 80px 14px 65px;
     background-repeat: no-repeat;
