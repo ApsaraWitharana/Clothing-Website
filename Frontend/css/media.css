@@ -70,3 +70,41 @@
     min-width: 100%;
     height: 30vh;
 }
+ /* Contact Page */
+ #contact-detalis {
+     flex-direction: column;
+ }
+
+ #contact-detalis .details {
+     width: 100%;
+     margin-bottom: 30px;
+ }
+
+ #contact-detalis .map {
+     width: 100%;
+ }
+
+ #form-details {
+     margin: 10px;
+     padding: 30px 10px;
+     flex-wrap: wrap;
+ }
+
+ #form-details form {
+     width: 100%;
+     margin-bottom: 30px;
+ }
+
+ /* Cart Page */
+ #cart-add {
+     flex-direction: column;
+ }
+
+ #coupon {
+     width: 100%;
+ }
+
+ #subtotal {
+     width: 100%;
+     padding: 20px;
+ }
