@@ -60,3 +60,13 @@
     width: 100%;
     padding: 20px;
 }
+
+/* banner1 */
+#banner {
+    height: 40vh;
+}
+
+#sm-banner .banner-box {
+    min-width: 100%;
+    height: 30vh;
+}
